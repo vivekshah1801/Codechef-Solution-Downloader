@@ -1,0 +1,8 @@
+- Folder setup
+- Get solved problems name
+- Get one problem solution 
+- Setup rotating proxy
+- Add comments to the solution based on language
+- store file
+- Multithreading
+- Zip file
